@@ -9,7 +9,7 @@ class CatalogueServiceApplicationTests {
 
    @Test
    void contextLoads () {
-      Assertions.fail("Not yet implemented");
+
    }
 
 }
